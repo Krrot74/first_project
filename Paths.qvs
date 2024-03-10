@@ -3,7 +3,7 @@ LET vPathYouTubeCMSData = 'C:\QlikSense\Data\YouTube\CMS\';
 LET vPathYouTubeFreeData = 'C:\QlikSense\Data\YouTube\Free\';
 LET vPathCommonData = 'C:\QlikSense\Data\Common\';
 LET vPathNavisionData = 'C:\QlikSense\Data\Navision\';
-
 LET vPathSource = 'C:\QlikSense\Source\';
-
 LET vPathMik = 'C:\Mik\Source\';
+
+LET vPathVelikoe = 'C:\Delo\life\';
